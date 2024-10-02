@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kuyib.github.io/jCC/sitemap.jCC.gz
